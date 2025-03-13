@@ -1,1 +1,2 @@
-My first time using GitHub for this Lab clas.
+My first time using GitHub for this Lab class.
+Adding a line to file and commit change.
